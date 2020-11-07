@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> UPN "Veteran" Jawa Timur </string>
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+    <string name="namafakultas">namaFakultas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsifakultas">deskripsiFakultas</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="linkweb">LinkWeb</string>
+</resources>
